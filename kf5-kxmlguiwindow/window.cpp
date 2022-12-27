@@ -4,6 +4,7 @@
 #include <QAction>
 
 #include <KXmlGui/KToolBar>
+#include <KXmlGui/KActionCollection>
 #include <KConfigWidgets/KStandardAction>
 
 #include "window.hpp"
